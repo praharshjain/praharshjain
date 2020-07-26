@@ -33,7 +33,7 @@ _<pre>When a program is being tested, it is too late to make design changes.</pr
 - [Hyperloglog](https://odino.org/my-favorite-data-structure-hyperloglog/)
 - [Crazy Harry Potter fan theroies](https://screenrant.com/harry-potter-fan-theories-possibly-true/)
 - [Chaos Theory and Butterfly Effect](https://theconversation.com/explainer-what-is-chaos-theory-10620)
-- [Top 5 discovered checks in Chess :chess:](https://www.youtube.com/watch?v=fxHZl3SSEB4)
+- [Top 5 discovered checks in Chess](https://www.youtube.com/watch?v=fxHZl3SSEB4)
 - [The Tao of Programming](https://www.mit.edu/~xela/tao.html)
 - [Big Bang Theory Facts](https://www.digitalspy.com/tv/ustv/a649499/bazinga-21-awesome-facts-you-might-not-know-about-the-big-bang-theory/)
 - [Esoteric programming languages](https://esolangs.org/wiki/Esoteric_programming_language). 
