@@ -4,7 +4,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there, fellow &lt;coders/&gt;!</h1>
 
 I am Praharsh, a passionate programmer :computer: and an information security enthusiast who loves to develop efficient and robust software. From very early on in my life, I started to fall in :heart: with technology. Probably, [creating simple shapes in LOGO](http://www.nongnu.org/lafontaine/en/xampels.html) as a kid was my first exposure to programming.  
-Over the years, I have collected several tools 🛠 in my arsenal, as a result I am extremely flexible with [technology stack](https://praharsh.xyz/#resume) and enjoy developing software for varied platforms.
+Over the years, I have collected several tools 🛠 in my arsenal, as a result I am extremely flexible with [technology stack](https://praharsh.tech/#resume) and enjoy developing software for varied platforms.
 
 _<pre>First solve the problem, then write the code.</pre>_
 
@@ -41,7 +41,7 @@ _<pre>When a program is being tested, it is too late to make design changes.</pr
  
 <p align="center">If you find any of the above fascinating or informative, let's connect and chat!</p>
 <p align="center">
-    <a href="https://praharsh.xyz"><img alt="Website" src="https://github.com/praharshjain/praharshjain/blob/master/images/website.svg" width="40px"></a> &nbsp; 
+    <a href="https://praharsh.tech"><img alt="Website" src="https://github.com/praharshjain/praharshjain/blob/master/images/website.svg" width="40px"></a> &nbsp; 
   <a href="https://www.linkedin.com/in/praharshjain/"><img alt="LinkedIn" src="https://github.com/praharshjain/praharshjain/blob/master/images/linkedin.svg" width="40px"></a> &nbsp; 
   <a href="mailto:praharshsamria@gmail.com"><img alt="Gmail" src="https://github.com/praharshjain/praharshjain/blob/master/images/google.svg" width="40px"></a> &nbsp;  
   <a href="https://t.me/praharshjain"><img alt="Telegram" src="https://github.com/praharshjain/praharshjain/blob/master/images/telegram.svg" width="40px"></a> &nbsp; 
