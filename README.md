@@ -2,8 +2,9 @@
 ![Views](https://views.whatilearened.today/views/github/praharshjain/praharshjain.svg?cache=remove)
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there, fellow &lt;coders/&gt;!</h1>
+<p align="middle"><img height=160 alt="space ship blasts off" src="https://media.giphy.com/media/pdmlMTaKjVauo9cxsH/giphy.gif" /></p>
 
-I am Praharsh, a passionate programmer :computer: and an information security enthusiast who loves to develop efficient and robust software. From very early on in my life, I started to fall in :heart: with technology. Probably, [creating simple shapes in LOGO](http://www.nongnu.org/lafontaine/en/xampels.html) as a kid was my first exposure to programming.  
+I am Praharsh, a passionate programmer :computer: and an information security enthusiast who loves to develop efficient and robust software. From early on in my life, I started to fall in :heart: with technology. Probably, [creating simple shapes in LOGO](http://www.nongnu.org/lafontaine/en/xampels.html) as a kid was my first exposure to programming.  
 Over the years, I have collected several tools 🛠 in my arsenal, as a result I am extremely flexible with [technology stack](https://praharsh.tech/#resume) and enjoy developing software for varied platforms.
 
 _<pre>First solve the problem, then write the code.</pre>_
