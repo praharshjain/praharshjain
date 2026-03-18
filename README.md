@@ -13,7 +13,7 @@ _<pre>First solve the problem, then write the code.</pre>_
 
 - :purple_heart: Kind people are my kinda people
 - Child at heart (**I see the world as magical**) :sparkles:
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him/his
 - P.S. I do know that HTML is not a programming language! :v:
 
 _<pre>Code like a story, not a puzzle.</pre>_
@@ -42,7 +42,7 @@ _<pre>When a program is being tested, it is too late to make design changes.</pr
  
 <p align="center">If you find any of the above fascinating or informative, let's connect and chat!</p>
 <p align="center">
-    <a href="https://praharsh.tech"><img alt="Website" src="https://github.com/praharshjain/praharshjain/blob/master/images/website.svg" width="40px"></a> &nbsp; 
+    <a href="https://praharsh.is-a.dev"><img alt="Website" src="https://github.com/praharshjain/praharshjain/blob/master/images/website.svg" width="40px"></a> &nbsp; 
   <a href="https://www.linkedin.com/in/praharshjain/"><img alt="LinkedIn" src="https://github.com/praharshjain/praharshjain/blob/master/images/linkedin.svg" width="40px"></a> &nbsp; 
   <a href="mailto:praharshsamria@gmail.com"><img alt="Gmail" src="https://github.com/praharshjain/praharshjain/blob/master/images/google.svg" width="40px"></a> &nbsp;  
   <a href="https://t.me/praharshjain"><img alt="Telegram" src="https://github.com/praharshjain/praharshjain/blob/master/images/telegram.svg" width="40px"></a> &nbsp; 
